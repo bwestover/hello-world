@@ -1,3 +1,3 @@
 # hello-world
 
-I have a big idea!
+I have a new big idea!
